@@ -1,0 +1,3 @@
+Position is static by default in CSS 
+position can be changed to relative,absolute,fixed,sticky,inherit
+after setting these top ,left, right, bottom can be changed with position
